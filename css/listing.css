@@ -1,0 +1,37 @@
+#listing {
+         margin:2%;
+         border:solid 2px;
+         height:1100px;;
+         border-collapse:separate; !important
+ }
+ 
+#listingEntry {
+         width:100%;
+         height:35px;
+         background:#3C342E;
+         border:solid 1px; 
+         border-top:none; 
+         border-left:none; 
+         float:left; 
+         
+        
+ }
+ 
+ 
+ #listingEntry h2 {
+         font-size:18px;  
+         color:#FFFFFF;
+         text-align:center;
+         margin-top:8px;
+  }
+ 
+ 
+ #listingdescription {
+         width:100%;
+         height:100px;
+         float:left;
+         background-color:#FFFFFF;
+         border-bottom:solid 1px;    
+ }
+ 
+ 
